@@ -1,0 +1,529 @@
+[?25l[0m[H[J[s[999C[999B[6n[uTasks: 556 total,   2 running, 548 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3760912k used,    83444k free,   127148k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1695868k cached         
+400%cpu  16%user   3%nice  45%sys 334%idle   0%iow   0%irq   3%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+ 9908 shell        20   0  10M 2.4M 1.4M R 42.1   0.0   0:00.18 top
+26785 u0_a125      20   0 1.8G 128M  89M S  5.2   3.4   3:18.47 com.tencent.mob+
+ 9084 root         20   0    0    0    0 R  2.6   0.0   0:03.96 [kworker/u8:7]
+26846 u0_a125      20   0 1.7G  66M  49M S  2.6   1.7  11:33.63 com.tencent.mob+
+20572 root         20   0    0    0    0 S  2.6   0.0   0:09.99 [kworker/3:2]
+ 7441 u0_a127      20   0 1.8G 102M  76M S  2.6   2.7   0:24.73 com.tencent.mm:+
+ 1187 root         18  -2    0    0    0 S  2.6   0.0   1:08.48 [VosMCThread]
+  476 logd         30  10  19M 4.1M 1.4M S  2.6   0.1   2:19.88 logd
+ 9776 u0_a57       20   0 4.0G  31M  23M S  0.0   0.8   0:00.13 com.google.andr+
+ 9749 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/3:4]
+ 9689 root         20   0    0    0    0 S  0.0   0.0   0:01.59 [kworker/u8:5]
+ 9682 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/3:3]
+ 9669 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/2:4]
+ 9663 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/0:0]
+ 9637 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/2:3]
+ 9336 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/0:3]
+ 9333 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/1:2]
+ 9225 root          0 -20    0    0    0 S  0.0   0.0   0:00.00 [kworker/u9:2]
+ 9162 u0_a131      10 -10 1.6G 118M  57M S  0.0   3.1   0:14.79 com.dongmibang.+
+ 9085 root         20   0    0    0    0 S  0.0   0.0   0:00.89 [kworker/3:1][H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3763036k used,    81320k free,   127148k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1695996k cached         
+400%cpu  23%user   2%nice  27%sys 347%idle   0%iow   2%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+  882 system       18  -2 4.4G 343M 298M S  8.0   9.1  24:54.81 system_server
+26846 u0_a125      20   0 1.7G  66M  49M S  5.0   1.7  11:33.64 com.tencent.mob+
+ 9162 u0_a131      10 -10 1.6G 118M  57M S  4.0   3.1   0:14.79 com.dongmibang.+
+ 2446 u0_a122      20   0 1.7G  82M  56M S  3.6   2.1  14:57.49 com.tencent.and+
+  499 system       -2  -8  68M  18M  14M S  3.6   0.4  14:39.64 surfaceflinger
+ 9908 shell        20   0  10M 2.6M 1.4M R  3.3   0.0   0:00.34 top
+ 6093 u0_a127      20   0 2.0G 171M 116M S  2.3   4.5   0:57.20 com.tencent.mm
+ 9689 root         20   0    0    0    0 S  1.6   0.0   0:01.59 [kworker/u8:5]
+ 7441 u0_a127      20   0 1.8G 102M  76M S  1.3   2.7   0:24.74 com.tencent.mm:+
+  657 audioserver  20   0  25M 7.8M 3.9M S  1.3   0.2   0:15.83 android.hardwar+
+ 1249 u0_a27       20   0 4.2G 148M  83M S  1.0   3.9   2:36.81 com.android.sys+
+  697 audioserver  20   0  52M 8.7M 6.2M S  1.0   0.2   0:14.30 audioserver
+  501 system       -3   0  30M 5.1M 4.0M S  1.0   0.1   3:13.54 android.hardwar+
+ 8776 root         20   0    0    0    0 S  0.6   0.0   0:00.37 [kworker/2:0]
+28697 root         20   0    0    0    0 S  0.6   0.0   0:44.74 [kworker/u8:17]
+26785 u0_a125      20   0 1.8G 128M  89M S  0.6   3.4   3:18.49 com.tencent.mob+
+  690 root         RT   0    0    0    0 S  0.6   0.0   1:29.52 [kschedfreq:2]
+  689 root         RT   0    0    0    0 S  0.6   0.0   2:41.90 [kschedfreq:0]
+  670 system       20   0  12M 2.2M 1.9M S  0.6   0.0   0:54.36 android.hardwar+
+  667 system       20   0  12M 2.0M 1.8M S  0.6   0.0   0:03.00 android.hardwar+[?25h[0m[1000;1H[K[?25h[0m[1000;1H[K[?25l[0m[H[J[s[999C[999B[6n[uTasks: 556 total,   1 running, 548 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3766168k used,    78188k free,   127644k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700068k cached         
+400%cpu  58%user  23%nice  68%sys 240%idle   0%iow  13%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+ 1335 u0_a126      20   0 2.3G 329M 159M S 80.0   8.7  20:01.43 com.tencent.mtt
+26846 u0_a125      20   0 1.7G  67M  49M S 37.5   1.7  11:59.99 com.tencent.mob+
+10384 shell        20   0  10M 2.4M 1.4M R 17.5   0.0   0:00.20 top -d 1
+  882 system       18  -2 4.4G 345M 298M S 10.0   9.1  25:11.68 system_server
+ 1187 root         18  -2    0    0    0 S  2.5   0.0   1:09.69 [VosMCThread]
+  689 root         RT   0    0    0    0 S  2.5   0.0   2:44.00 [kschedfreq:0]
+  477 system       20   0  10M 1.8M 1.5M S  2.5   0.0   0:27.78 servicemanager
+  354 root         RT   0    0    0    0 S  2.5   0.0   2:15.21 [nanohub]
+   17 root         20   0    0    0    0 S  2.5   0.0   1:00.65 [ksoftirqd/1]
+   16 root         -2   0    0    0    0 S  2.5   0.0   0:09.07 [rcuc/1]
+10311 u0_a127      20   0 1.8G  93M  71M S  0.0   2.4   0:04.07 com.tencent.mm:+
+10300 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/3:1]
+10286 root          0 -20    0    0    0 S  0.0   0.0   0:00.00 [kworker/u9:0]
+10166 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/2:3]
+10100 root         20   0    0    0    0 S  0.0   0.0   0:00.25 [kworker/0:6]
+10099 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/0:5]
+ 9945 u0_a131      10 -10 1.6G 112M  57M S  0.0   2.9   0:12.39 com.dongmibang.+
+ 9911 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/1:1]
+ 9776 u0_a57       20   0 4.0G  31M  23M S  0.0   0.8   0:00.13 com.google.andr+
+ 9689 root         20   0    0    0    0 S  0.0   0.0   0:02.93 [kworker/u8:5][H[JTasks: 556 total,   1 running, 550 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3766396k used,    77960k free,   127644k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700068k cached         
+400%cpu  31%user   4%nice  41%sys 315%idle   0%iow   0%irq   9%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+32362 u0_a126      16  -4 1.9G 152M  81M S 32.0   4.0   3:54.90 com.tencent.mtt+
+10384 shell        20   0  10M 2.6M 1.4M R  9.0   0.0   0:00.27 top -d 1
+ 1335 u0_a126      20   0 2.3G 329M 159M S  9.0   8.7  20:01.75 com.tencent.mtt
+ 2446 u0_a122      20   0 1.7G  82M  56M S  7.0   2.1  15:10.59 com.tencent.and+
+26846 u0_a125      20   0 1.7G  67M  49M S  4.0   1.7  12:00.14 com.tencent.mob+
+28697 root         20   0    0    0    0 S  3.0   0.0   0:46.66 [kworker/u8:17]
+26785 u0_a125      20   0 1.8G 128M  89M S  3.0   3.4   3:25.23 com.tencent.mob+
+  882 system       18  -2 4.4G 345M 298M S  3.0   9.1  25:11.72 system_server
+20572 root         20   0    0    0    0 S  2.0   0.0   0:10.64 [kworker/3:2]
+ 9945 u0_a131      10 -10 1.6G 112M  57M S  1.0   2.9   0:12.39 com.dongmibang.+
+ 3863 root         20   0    0    0    0 S  1.0   0.0   0:22.21 [kworker/0:1]
+ 2725 u0_a122      20   0 1.6G  46M  36M S  1.0   1.2   0:19.45 com.tencent.and+
+  689 root         RT   0    0    0    0 S  1.0   0.0   2:44.01 [kschedfreq:0]
+  671 system       RT   0 2.0G 4.6M 3.0M S  1.0   0.1   4:30.23 android.hardwar+
+   29 root         20   0    0    0    0 S  1.0   0.0   0:18.52 [ksoftirqd/3]
+    7 root         -2   0    0    0    0 S  1.0   0.0   2:53.89 [rcu_preempt]
+    3 root         20   0    0    0    0 S  1.0   0.0   1:28.40 [ksoftirqd/0]
+10311 u0_a127      20   0 1.8G  93M  71M S  0.0   2.4   0:04.07 com.tencent.mm:+
+10300 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/3:1]
+10286 root          0 -20    0    0    0 S  0.0   0.0   0:00.00 [kworker/u9:0][H[JTasks: 556 total,   1 running, 548 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3766240k used,    78116k free,   127644k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700072k cached         
+400%cpu  10%user   0%nice  19%sys 369%idle   0%iow   2%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10384 shell        20   0  10M 2.7M 1.5M R  9.0   0.0   0:00.36 top -d 1
+  882 system       18  -2 4.4G 345M 298M S  4.0   9.1  25:11.75 system_server
+ 9945 u0_a131      10 -10 1.6G 112M  57M S  2.0   2.9   0:12.40 com.dongmibang.+
+28697 root         20   0    0    0    0 S  2.0   0.0   0:46.69 [kworker/u8:17]
+ 1249 u0_a27       20   0 4.2G 148M  83M S  2.0   3.9   2:39.10 com.android.sys+
+  667 system       20   0  12M 2.0M 1.8M S  2.0   0.0   0:03.08 android.hardwar+
+  499 system       -2  -8  68M  18M  14M S  2.0   0.4  14:41.44 surfaceflinger
+ 8853 root         20   0    0    0    0 S  1.0   0.0   0:01.44 [kworker/1:3]
+ 8475 root         20   0    0    0    0 S  1.0   0.0   0:02.65 [kworker/0:2]
+32004 u0_a126      20   0 1.7G  68M  52M S  1.0   1.8   0:20.20 com.tencent.mtt+
+20572 root         20   0    0    0    0 S  1.0   0.0   0:10.66 [kworker/3:2]
+  694 shell        20   0  15M 856K 628K S  1.0   0.0   0:15.16 adbd --root_sec+
+  690 root         RT   0    0    0    0 S  1.0   0.0   1:30.26 [kschedfreq:2]
+  670 system       20   0  12M 2.2M 1.9M S  1.0   0.0   0:54.41 android.hardwar+
+  533 root         RT   0    0    0    0 D  1.0   0.0   4:57.66 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  1.0   0.1   3:14.23 android.hardwar+
+  476 logd         30  10  19M 4.1M 1.4M S  1.0   0.1   2:22.20 logd
+  292 root         RT   0    0    0    0 S  1.0   0.0   0:05.11 [irq/480-synapt+
+   54 root         RT   0    0    0    0 S  1.0   0.0   0:22.61 [irq/260-cpr3]
+10311 u0_a127      20   0 1.8G  93M  71M S  0.0   2.4   0:04.07 com.tencent.mm:+[H[JTasks: 555 total,   1 running, 548 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3705644k used,   138712k free,   127668k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700364k cached         
+400%cpu  62%user  34%nice  63%sys 236%idle   1%iow   3%irq   1%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+ 1860 u0_a10       20   0 4.3G 127M  84M S 37.0   3.3   3:47.10 com.google.andr+
+  882 system       18  -2 4.4G 345M 298M S 36.0   9.1  25:11.79 system_server
+ 1249 u0_a27       20   0 4.2G 148M  83M S 14.0   3.9   2:39.12 com.android.sys+
+  499 system       -2  -8  68M  18M  14M S  9.0   0.4  14:41.46 surfaceflinger
+ 2016 u0_a17       20   0 4.2G  99M  66M S  8.0   2.6   0:20.72 com.google.andr+
+ 2446 u0_a122      20   0 1.7G  82M  56M S  7.0   2.1  15:10.66 com.tencent.and+
+ 2139 u0_a37       20   0 4.2G  92M  65M S  7.0   2.4   0:14.71 com.google.andr+
+10384 shell        20   0  10M 2.7M 1.5M R  6.0   0.0   0:00.45 top -d 1
+ 2833 u0_a124      20   0 1.7G  96M  66M S  2.0   2.5   0:13.21 com.sohu.inputm+
+  697 audioserver  20   0  52M 8.7M 6.2M S  2.0   0.2   0:14.50 audioserver
+  501 system       -3   0  30M 5.1M 4.0M S  2.0   0.1   3:14.24 android.hardwar+
+  292 root         RT   0    0    0    0 S  2.0   0.0   0:05.12 [irq/480-synapt+
+10100 root         20   0    0    0    0 S  1.0   0.0   0:00.25 [kworker/0:6]
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:02.93 [kworker/u8:5]
+ 9084 root         20   0    0    0    0 S  1.0   0.0   0:06.81 [kworker/u8:7]
+28697 root         20   0    0    0    0 S  1.0   0.0   0:46.71 [kworker/u8:17]
+26785 u0_a125      20   0 1.8G 128M  89M S  1.0   3.4   3:25.26 com.tencent.mob+
+ 1918 nfc          20   0 4.1G  52M  37M S  1.0   1.3   0:01.26 com.android.nfc
+ 1823 root         20   0  17M 1.6M 1.2M S  1.0   0.0   0:01.63 perfd
+ 1821 root         RT   0    0    0    0 S  1.0   0.0   0:18.82 [irq/19-408000.+[H[JTasks: 555 total,   1 running, 549 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3714892k used,   129464k free,   127668k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700364k cached         
+400%cpu  54%user  14%nice  43%sys 282%idle   0%iow   6%irq   1%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+  882 system       18  -2 4.4G 345M 298M S 14.0   9.1  25:12.15 system_server
+ 2016 u0_a17       10 -10 4.1G 100M  66M S 12.0   2.6   0:20.80 com.google.andr+
+26846 u0_a125      20   0 1.7G  66M  49M S 11.0   1.7  12:00.18 com.tencent.mob+
+10384 shell        20   0  10M 2.7M 1.5M R  9.0   0.0   0:00.51 top -d 1
+  499 system       -2  -8  68M  18M  14M S  7.0   0.4  14:41.55 surfaceflinger
+ 2446 u0_a122      20   0 1.7G  81M  56M S  5.0   2.1  15:10.73 com.tencent.and+
+ 1249 u0_a27       20   0 4.2G 148M  82M S  4.0   3.9   2:39.26 com.android.sys+
+  697 audioserver  20   0  52M 8.7M 6.2M S  4.0   0.2   0:14.52 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.06 android.hardwar+
+ 1374 u0_a109      20   0 4.1G  59M  48M S  3.0   1.5  13:03.55 com.ustwo.lwp
+30925 root         20   0    0    0    0 S  2.0   0.0   0:58.64 [kworker/u8:2]
+  533 root         RT   0    0    0    0 D  2.0   0.0   4:57.68 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  2.0   0.1   3:14.26 android.hardwar+
+  354 root         RT   0    0    0    0 S  2.0   0.0   2:15.22 [nanohub]
+ 3863 root         20   0    0    0    0 S  1.0   0.0   0:22.22 [kworker/0:1]
+28697 root         20   0    0    0    0 S  1.0   0.0   0:46.72 [kworker/u8:17]
+ 8772 u0_a124      20   0 1.5G  45M  33M S  1.0   1.1   0:05.65 com.sohu.inputm+
+ 1860 u0_a10       20   0 4.3G 120M  84M S  1.0   3.1   3:47.47 com.google.andr+
+  690 root         RT   0    0    0    0 S  1.0   0.0   1:30.28 [kschedfreq:2]
+  671 system       RT   0 2.0G 4.6M 3.0M S  1.0   0.1   4:30.24 android.hardwar+[H[JTasks: 556 total,   3 running, 548 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3743340k used,   101016k free,   127676k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700376k cached         
+400%cpu 127%user   6%nice  43%sys 216%idle   0%iow   7%irq   1%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      20   0 1.5G  38M  21M R 75.0   1.0   0:00.20 com.dongmibang.+
+ 2016 u0_a17       10 -10 4.2G 101M  67M S 29.0   2.6   0:20.92 com.google.andr+
+26846 u0_a125      20   0 1.7G  66M  49M S 14.0   1.7  12:00.29 com.tencent.mob+
+ 1249 u0_a27       20   0 4.2G 148M  83M S 10.0   3.9   2:39.30 com.android.sys+
+  882 system       18  -2 4.4G 343M 298M S 10.0   9.1  25:12.29 system_server
+  499 system       -2  -8  68M  18M  14M S  9.0   0.4  14:41.62 surfaceflinger
+10384 shell        20   0  10M 2.7M 1.5M R  7.0   0.0   0:00.60 top -d 1
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.10 android.hardwar+
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:14.56 audioserver
+26785 u0_a125      20   0 1.8G 128M  89M S  2.0   3.4   3:25.27 com.tencent.mob+
+ 1860 u0_a10       20   0 4.3G 120M  84M S  2.0   3.1   3:47.48 com.google.andr+
+ 1374 u0_a109      20   0 4.1G  59M  48M S  2.0   1.5  13:03.58 com.ustwo.lwp
+  671 system       20   0 2.0G 4.6M 3.0M S  2.0   0.1   4:30.25 android.hardwar+
+  533 root         RT   0    0    0    0 D  2.0   0.0   4:57.70 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  2.0   0.1   3:14.28 android.hardwar+
+10100 root         20   0    0    0    0 S  1.0   0.0   0:00.26 [kworker/0:6]
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:02.94 [kworker/u8:5]
+ 8450 root         20   0    0    0    0 S  1.0   0.0   0:00.61 [kworker/2:1]
+30925 root         20   0    0    0    0 S  1.0   0.0   0:58.66 [kworker/u8:2]
+ 2139 u0_a37       10 -10 4.2G  93M  65M S  1.0   2.4   0:14.78 com.google.andr+[H[JTasks: 556 total,   2 running, 549 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3749896k used,    94460k free,   127688k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700380k cached         
+400%cpu 280%user  34%nice  74%sys   3%idle   0%iow   7%irq   2%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      10 -10 1.5G  66M  25M R  255   1.7   0:00.95 com.dongmibang.+
+  882 system       18  -2 4.4G 343M 298M S 29.0   9.1  25:12.39 system_server
+ 2016 u0_a17       20   0 4.2G 104M  67M S 19.0   2.7   0:21.21 com.google.andr+
+ 1860 u0_a10       20   0 4.3G 120M  84M S 18.0   3.1   3:47.50 com.google.andr+
+  499 system       -2  -8  68M  18M  14M S 11.0   0.4  14:41.71 surfaceflinger
+10384 shell        20   0  10M 2.7M 1.5M R  8.0   0.0   0:00.67 top -d 1
+32004 u0_a126      20   0 1.7G  68M  52M S  4.0   1.8   0:20.21 com.tencent.mtt+
+ 1463 radio        20   0 4.1G  84M  62M S  4.0   2.2   0:24.65 com.android.pho+
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:14.59 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  3.0   0.2   0:16.14 android.hardwar+
+  533 root         RT   0    0    0    0 D  3.0   0.0   4:57.72 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  3.0   0.1   3:14.30 android.hardwar+
+28697 root         20   0    0    0    0 S  2.0   0.0   0:46.73 [kworker/u8:17]
+26846 u0_a125      20   0 1.7G  66M  49M S  2.0   1.7  12:00.43 com.tencent.mob+
+  671 system       20   0 2.0G 4.6M 3.0M S  2.0   0.1   4:30.27 android.hardwar+
+  476 logd         30  10  19M 4.1M 1.4M S  2.0   0.1   2:22.22 logd
+  354 root         RT   0    0    0    0 S  2.0   0.0   2:15.25 [nanohub]
+ 6741 root         20   0    0    0    0 S  1.0   0.0   0:04.03 [kworker/1:0]
+ 1335 u0_a126      20   0 2.3G 329M 159M S  1.0   8.7  20:01.84 com.tencent.mtt
+30925 root         20   0    0    0    0 S  1.0   0.0   0:58.67 [kworker/u8:2][H[JTasks: 556 total,   3 running, 548 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3761800k used,    82556k free,   127752k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700980k cached         
+400%cpu 251%user  24%nice  76%sys  39%idle   1%iow   7%irq   2%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      10 -10 1.6G  81M  40M R  222   2.1   0:03.50 com.dongmibang.+
+  882 system       18  -2 4.4G 344M 298M S 29.0   9.1  25:12.68 system_server
+ 2016 u0_a17       20   0 4.2G 104M  67M S 25.0   2.7   0:21.40 com.google.andr+
+  499 system       -2  -8  68M  18M  14M S 13.0   0.4  14:41.82 surfaceflinger
+ 1249 u0_a27       20   0 4.2G 148M  82M S  9.0   3.9   2:39.41 com.android.sys+
+10384 shell        20   0  10M 2.7M 1.5M R  8.0   0.0   0:00.75 top -d 1
+ 1860 u0_a10       20   0 4.3G 120M  84M S  3.0   3.1   3:47.68 com.google.andr+
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:14.62 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  3.0   0.2   0:16.17 android.hardwar+
+  501 system       -3   0  30M 5.1M 4.0M S  3.0   0.1   3:14.33 android.hardwar+
+ 2833 u0_a124      20   0 1.7G  96M  66M S  2.0   2.5   0:13.24 com.sohu.inputm+
+ 2446 u0_a122      20   0 1.7G  81M  56M S  2.0   2.1  15:10.79 com.tencent.and+
+ 2139 u0_a37       20   0 4.2G  93M  65M S  2.0   2.4   0:14.79 com.google.andr+
+ 1374 u0_a109      20   0 4.1G  59M  48M S  2.0   1.5  13:03.61 com.ustwo.lwp
+  533 root         RT   0    0    0    0 D  2.0   0.0   4:57.75 [mdss_fb0]
+  477 system       20   0  10M 1.8M 1.5M S  2.0   0.0   0:27.81 servicemanager
+  476 logd         30  10  19M 4.1M 1.4M S  2.0   0.1   2:22.24 logd
+  244 root         -3   0    0    0    0 S  2.0   0.0   1:01.24 [kgsl_worker_th+
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:02.95 [kworker/u8:5]
+ 8853 root         20   0    0    0    0 S  1.0   0.0   0:01.45 [kworker/1:3][H[JTasks: 556 total,   3 running, 546 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3765780k used,    78576k free,   127816k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700964k cached         
+400%cpu 152%user  29%nice  70%sys 140%idle   0%iow   8%irq   1%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      10 -10 1.6G 100M  49M S  139   2.6   0:05.72 com.dongmibang.+
+ 1335 u0_a126      20   0 2.3G 329M 159M S 32.0   8.7  20:01.85 com.tencent.mtt
+ 2016 u0_a17       20   0 4.2G 103M  67M R 17.0   2.7   0:21.65 com.google.andr+
+  499 system       -2  -8  68M  18M  14M S 15.0   0.4  14:41.95 surfaceflinger
+ 1249 u0_a27       20   0 4.2G 148M  82M S 11.0   3.9   2:39.50 com.android.sys+
+10384 shell        20   0  10M 2.8M 1.5M R 10.0   0.0   0:00.83 top -d 1
+  882 system       18  -2 4.4G 345M 298M S  6.0   9.1  25:12.97 system_server
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:14.65 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  3.0   0.2   0:16.20 android.hardwar+
+  533 root         RT   0    0    0    0 D  3.0   0.0   4:57.77 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  3.0   0.1   3:14.36 android.hardwar+
+28697 root         20   0    0    0    0 S  2.0   0.0   0:46.76 [kworker/u8:17]
+  244 root         -3   0    0    0    0 S  2.0   0.0   1:01.26 [kgsl_worker_th+
+30925 root         20   0    0    0    0 S  1.0   0.0   0:58.68 [kworker/u8:2]
+ 2139 u0_a37       20   0 4.2G  93M  65M S  1.0   2.4   0:14.81 com.google.andr+
+ 1188 root         19  -1    0    0    0 S  1.0   0.0   0:24.45 [VosTlshimRxThr+
+  689 root         RT   0    0    0    0 S  1.0   0.0   2:44.03 [kschedfreq:0]
+  586 root         20   0    0    0    0 S  1.0   0.0   0:11.81 [jbd2/sda35-8]
+  476 logd         30  10  19M 4.1M 1.4M S  1.0   0.1   2:22.26 logd
+  292 root         RT   0    0    0    0 S  1.0   0.0   0:05.17 [irq/480-synapt+[H[JTasks: 557 total,   1 running, 549 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3770856k used,    73500k free,   127836k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1700964k cached         
+400%cpu 111%user   6%nice  72%sys 204%idle   1%iow   5%irq   1%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      10 -10 1.7G 109M  54M S 58.0   2.9   0:07.11 com.dongmibang.+
+  882 system       18  -2 4.4G 345M 298M S 29.0   9.1  25:13.03 system_server
+32362 u0_a126      16  -4 1.9G 152M  81M S 18.0   4.0   3:55.22 com.tencent.mtt+
+  499 system       -2  -8  68M  18M  14M S 17.0   0.4  14:42.10 surfaceflinger
+ 1249 u0_a27       20   0 4.2G 148M  83M S 15.0   3.9   2:39.61 com.android.sys+
+10384 shell        20   0  10M 2.7M 1.5M R  9.0   0.0   0:00.93 top -d 1
+ 2016 u0_a17       20   0 4.2G 103M  67M S  6.0   2.7   0:21.82 com.google.andr+
+  697 audioserver  20   0  52M 8.7M 6.2M S  4.0   0.2   0:14.68 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.23 android.hardwar+
+  501 system       -3   0  30M 5.1M 4.0M S  4.0   0.1   3:14.39 android.hardwar+
+  533 root         RT   0    0    0    0 D  2.0   0.0   4:57.80 [mdss_fb0]
+  292 root         RT   0    0    0    0 S  2.0   0.0   0:05.18 [irq/480-synapt+
+  244 root         -3   0    0    0    0 S  2.0   0.0   1:01.28 [kgsl_worker_th+
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:02.96 [kworker/u8:5]
+ 9084 root         20   0    0    0    0 S  1.0   0.0   0:06.82 [kworker/u8:7]
+ 2446 u0_a122      20   0 1.7G  81M  56M S  1.0   2.1  15:10.81 com.tencent.and+
+ 2139 u0_a37       20   0 4.2G  93M  65M S  1.0   2.4   0:14.82 com.google.andr+
+ 1374 u0_a109      20   0 4.1G  59M  48M S  1.0   1.5  13:03.63 com.ustwo.lwp
+  918 root          0 -20    0    0    0 S  1.0   0.0   0:00.51 [kworker/2:2H]
+  694 shell        20   0  15M 728K 628K S  1.0   0.0   0:15.18 adbd --root_sec+[?25h[0m[1000;1H[K[?25h[0m[1000;1H[K[?25l[0m[H[J[s[999C[999B[6n[uTasks: 557 total,   1 running, 551 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3788980k used,    55376k free,   127964k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709100k cached         
+400%cpu  46%user   8%nice  86%sys 259%idle   0%iow   0%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+ 1335 u0_a126      20   0 2.3G 329M 159M S 62.1   8.7  20:06.81 com.tencent.mtt
+10642 shell        20   0  10M 2.4M 1.4M R 40.5   0.0   0:00.14 top -d 1
+ 2446 u0_a122      20   0 1.7G  81M  56M S 16.2   2.1  15:14.14 com.tencent.and+
+ 9084 root         20   0    0    0    0 S  2.7   0.0   0:07.54 [kworker/u8:7]
+ 8475 root         20   0    0    0    0 S  2.7   0.0   0:02.82 [kworker/0:2]
+26785 u0_a125      20   0 1.8G 128M  89M S  2.7   3.4   3:27.19 com.tencent.mob+
+  882 system       18  -2 4.4G 345M 298M S  2.7   9.1  25:18.04 system_server
+  476 logd         30  10  19M 4.1M 1.4M S  2.7   0.1   2:22.95 logd
+   17 root         20   0    0    0    0 S  2.7   0.0   1:00.82 [ksoftirqd/1]
+    7 root         -2   0    0    0    0 S  2.7   0.0   2:54.43 [rcu_preempt]
+    3 root         20   0    0    0    0 S  2.7   0.0   1:28.72 [ksoftirqd/0]
+10635 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/1:1]
+10554 root          0 -20    0    0    0 S  0.0   0.0   0:00.00 [kworker/u9:4]
+10549 root          0 -20    0    0    0 S  0.0   0.0   0:00.00 [kworker/u9:3]
+10512 root         20   0    0    0    0 S  0.0   0.0   0:00.81 [kworker/u8:1]
+10507 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/3:3]
+10396 u0_a131      16  -4 1.7G 129M  69M S  0.0   3.4   0:13.05 com.dongmibang.+
+10311 u0_a127      20   0 1.8G  93M  71M S  0.0   2.4   0:04.07 com.tencent.mm:+
+10300 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/3:1]
+10286 root          0 -20    0    0    0 S  0.0   0.0   0:00.00 [kworker/u9:0][H[JTasks: 557 total,   1 running, 551 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3784216k used,    60140k free,   127964k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709104k cached         
+400%cpu  25%user  12%nice  37%sys 322%idle   0%iow   2%irq   2%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+32362 u0_a126      16  -4 1.9G 153M  81M S 30.0   4.0   3:57.76 com.tencent.mtt+
+10642 shell        20   0  10M 2.6M 1.4M R  9.0   0.0   0:00.29 top -d 1
+  882 system       18  -2 4.4G 345M 298M S  8.0   9.1  25:18.05 system_server
+10396 u0_a131      16  -4 1.7G 129M  69M S  4.0   3.4   0:13.05 com.dongmibang.+
+ 1249 u0_a27       20   0 4.2G 148M  82M S  4.0   3.9   2:40.44 com.android.sys+
+26846 u0_a125      20   0 1.7G  65M  49M S  3.0   1.7  12:07.15 com.tencent.mob+
+  667 system       20   0  12M 2.0M 1.8M S  2.0   0.0   0:03.18 android.hardwar+
+  499 system       -2  -8  68M  18M  14M S  2.0   0.4  14:42.79 surfaceflinger
+  292 root         RT   0    0    0    0 S  2.0   0.0   0:05.22 [irq/480-synapt+
+   54 root         RT   0    0    0    0 S  2.0   0.0   0:22.75 [irq/260-cpr3]
+ 9663 root         20   0    0    0    0 S  1.0   0.0   0:00.02 [kworker/0:0]
+ 9336 root         20   0    0    0    0 S  1.0   0.0   0:00.08 [kworker/0:3]
+ 9084 root         20   0    0    0    0 S  1.0   0.0   0:07.55 [kworker/u8:7]
+28697 root         20   0    0    0    0 S  1.0   0.0   0:47.17 [kworker/u8:17]
+ 1823 root         20   0  16M 1.6M 1.2M S  1.0   0.0   0:01.65 perfd
+  694 shell        20   0  15M 696K 628K S  1.0   0.0   0:15.19 adbd --root_sec+
+  690 root         RT   0    0    0    0 S  1.0   0.0   1:30.59 [kschedfreq:2]
+  689 root         RT   0    0    0    0 S  1.0   0.0   2:44.62 [kschedfreq:0]
+  657 audioserver  20   0  25M 7.8M 3.9M S  1.0   0.2   0:16.52 android.hardwar+
+  501 system       -3   0  30M 5.1M 4.0M S  1.0   0.1   3:14.60 android.hardwar+[H[JTasks: 559 total,   2 running, 549 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3784964k used,    59392k free,   127976k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709128k cached         
+400%cpu  34%user   3%nice  28%sys 333%idle   1%iow   1%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      16  -4 1.7G 126M  65M S 23.0   3.3   0:13.09 com.dongmibang.+
+  882 system       18  -2 4.4G 345M 298M S  8.0   9.1  25:18.13 system_server
+10642 shell        20   0  10M 2.7M 1.5M R  6.0   0.0   0:00.38 top -d 1
+ 2446 u0_a122      20   0 1.7G  81M  56M S  4.0   2.1  15:14.20 com.tencent.and+
+  697 audioserver  20   0  52M 8.7M 6.2M S  4.0   0.2   0:14.96 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.53 android.hardwar+
+  499 system       -2  -8  68M  18M  14M S  3.0   0.4  14:42.81 surfaceflinger
+  292 root         RT   0    0    0    0 S  2.0   0.0   0:05.24 [irq/480-synapt+
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:03.01 [kworker/u8:5]
+ 8475 root         20   0    0    0    0 S  1.0   0.0   0:02.83 [kworker/0:2]
+ 8450 root         20   0    0    0    0 S  1.0   0.0   0:00.65 [kworker/2:1]
+ 8149 root         20   0    0    0    0 S  1.0   0.0   0:02.47 [kworker/3:0]
+28697 root         20   0    0    0    0 S  1.0   0.0   0:47.18 [kworker/u8:17]
+26846 u0_a125      20   0 1.7G  65M  49M S  1.0   1.7  12:07.18 com.tencent.mob+
+ 2552 u0_a122      16  -4 2.0G 172M 122M S  1.0   4.5   0:59.79 com.tencent.and+
+ 1823 root         20   0  17M 1.6M 1.2M S  1.0   0.0   0:01.66 perfd
+ 1249 u0_a27       20   0 4.2G 149M  82M S  1.0   3.9   2:40.48 com.android.sys+
+  533 root         RT   0    0    0    0 D  1.0   0.0   4:57.93 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  1.0   0.1   3:14.61 android.hardwar+
+   50 root         20   0    0    0    0 S  1.0   0.0   2:52.28 [smem_native_rp+[H[JTasks: 559 total,   2 running, 552 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3785564k used,    58792k free,   127976k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709220k cached         
+400%cpu  30%user   6%nice  24%sys 338%idle   0%iow   2%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      16  -4 1.7G 127M  66M R 23.0   3.3   0:13.32 com.dongmibang.+
+10642 shell        20   0  10M 2.7M 1.5M R  9.0   0.0   0:00.44 top -d 1
+  882 system       18  -2 4.4G 345M 298M S  8.0   9.1  25:18.21 system_server
+  657 audioserver  20   0  25M 7.8M 3.9M S  5.0   0.2   0:16.57 android.hardwar+
+  499 system       -2  -8  68M  18M  14M S  5.0   0.4  14:42.84 surfaceflinger
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:15.00 audioserver
+ 6741 root         20   0    0    0    0 S  2.0   0.0   0:04.08 [kworker/1:0]
+ 2446 u0_a122      20   0 1.7G  81M  56M S  2.0   2.1  15:14.24 com.tencent.and+
+  501 system       -3   0  30M 5.1M 4.0M S  2.0   0.1   3:14.62 android.hardwar+
+ 9336 root         20   0    0    0    0 S  1.0   0.0   0:00.09 [kworker/0:3]
+26846 u0_a125      20   0 1.7G  65M  49M S  1.0   1.7  12:07.19 com.tencent.mob+
+ 1249 u0_a27       20   0 4.2G 149M  82M S  1.0   3.9   2:40.49 com.android.sys+
+  690 root         RT   0    0    0    0 S  1.0   0.0   1:30.60 [kschedfreq:2]
+  689 root         RT   0    0    0    0 S  1.0   0.0   2:44.63 [kschedfreq:0]
+  533 root         RT   0    0    0    0 D  1.0   0.0   4:57.94 [mdss_fb0]
+   77 root         20   0    0    0    0 S  1.0   0.0   0:02.01 [system]
+   23 root         20   0    0    0    0 S  1.0   0.0   1:13.16 [ksoftirqd/2]
+   17 root         20   0    0    0    0 S  1.0   0.0   1:00.83 [ksoftirqd/1]
+    7 root         -2   0    0    0    0 S  1.0   0.0   2:54.45 [rcu_preempt]
+10646 root         20   0    0    0    0 S  0.0   0.0   0:00.00 [kworker/u8:9][H[JTasks: 559 total,   1 running, 552 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3786388k used,    57968k free,   128008k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709220k cached         
+400%cpu  62%user   3%nice  55%sys 273%idle   2%iow   3%irq   2%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10396 u0_a131      16  -4 1.7G 127M  65M S 23.0   3.3   0:13.55 com.dongmibang.+
+ 1249 u0_a27       20   0 4.2G 149M  82M S 20.0   3.9   2:40.50 com.android.sys+
+  882 system       18  -2 4.4G 345M 298M S 19.0   9.1  25:18.29 system_server
+  499 system       -2  -8  68M  18M  14M S 14.0   0.4  14:42.89 surfaceflinger
+10642 shell        20   0  10M 2.7M 1.5M R  9.0   0.0   0:00.53 top -d 1
+26846 u0_a125      20   0 1.7G  65M  49M S  4.0   1.7  12:07.20 com.tencent.mob+
+  697 audioserver  20   0  52M 8.7M 6.2M S  4.0   0.2   0:15.03 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  3.0   0.2   0:16.62 android.hardwar+
+  533 root         RT   0    0    0    0 D  3.0   0.0   4:57.95 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  3.0   0.1   3:14.64 android.hardwar+
+26785 u0_a125      20   0 1.8G 128M  89M S  2.0   3.4   3:27.20 com.tencent.mob+
+ 2833 u0_a124      20   0 1.7G  96M  66M S  2.0   2.5   0:13.27 com.sohu.inputm+
+  690 root         RT   0    0    0    0 S  2.0   0.0   1:30.61 [kschedfreq:2]
+10512 root         20   0    0    0    0 S  1.0   0.0   0:00.81 [kworker/u8:1]
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:03.02 [kworker/u8:5]
+28697 root         20   0    0    0    0 S  1.0   0.0   0:47.19 [kworker/u8:17]
+ 1187 root         18  -2    0    0    0 S  1.0   0.0   1:10.00 [VosMCThread]
+  689 root         RT   0    0    0    0 D  1.0   0.0   2:44.64 [kschedfreq:0]
+  586 root         20   0    0    0    0 S  1.0   0.0   0:11.85 [jbd2/sda35-8]
+  504 system       20   0  18M 2.5M 2.1M S  1.0   0.0   0:00.84 android.hardwar+[H[JTasks: 559 total,   2 running, 551 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3788764k used,    55592k free,   128008k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709352k cached         
+400%cpu  50%user  12%nice  41%sys 293%idle   0%iow   3%irq   1%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+26846 u0_a125      20   0 1.7G  65M  49M S 16.0   1.7  12:07.24 com.tencent.mob+
+10396 u0_a131      16  -4 1.7G 127M  65M S 15.0   3.3   0:13.78 com.dongmibang.+
+  882 system       18  -2 4.4G 345M 298M S 12.0   9.1  25:18.48 system_server
+10642 shell        20   0  10M 2.7M 1.5M R  8.0   0.0   0:00.62 top -d 1
+  499 system       -2  -8  68M  18M  14M S  8.0   0.4  14:43.03 surfaceflinger
+ 2833 u0_a124      20   0 1.7G  96M  66M S  7.0   2.5   0:13.29 com.sohu.inputm+
+ 1249 u0_a27       20   0 4.2G 149M  83M S  5.0   3.9   2:40.70 com.android.sys+
+  697 audioserver  20   0  52M 8.7M 6.2M S  4.0   0.2   0:15.07 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.65 android.hardwar+
+26785 u0_a125      20   0 1.8G 128M  89M S  3.0   3.4   3:27.22 com.tencent.mob+
+  501 system       -3   0  30M 5.1M 4.0M S  3.0   0.1   3:14.67 android.hardwar+
+ 2446 u0_a122      20   0 1.7G  81M  56M S  2.0   2.1  15:14.26 com.tencent.and+
+  687 root         20   0  10M 1.5M 1.3M S  2.0   0.0   0:43.58 msm_irqbalance +
+10512 root         20   0    0    0    0 S  1.0   0.0   0:00.82 [kworker/u8:1]
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:03.03 [kworker/u8:5]
+ 9336 root         20   0    0    0    0 R  1.0   0.0   0:00.10 [kworker/0:3]
+ 1335 u0_a126      20   0 2.3G 329M 159M S  1.0   8.7  20:07.04 com.tencent.mtt
+28697 root         20   0    0    0    0 S  1.0   0.0   0:47.20 [kworker/u8:17]
+  690 root         RT   0    0    0    0 S  1.0   0.0   1:30.63 [kschedfreq:2]
+  533 root         RT   0    0    0    0 D  1.0   0.0   4:57.98 [mdss_fb0][H[JTasks: 559 total,   1 running, 552 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3788316k used,    56040k free,   128012k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709360k cached         
+400%cpu  37%user   6%nice  35%sys 320%idle   0%iow   2%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+ 1249 u0_a27       20   0 4.2G 150M  83M S 15.0   3.9   2:40.75 com.android.sys+
+10642 shell        20   0  10M 2.7M 1.5M R  9.0   0.0   0:00.70 top -d 1
+  499 system       -2  -8  68M  18M  14M S  9.0   0.4  14:43.11 surfaceflinger
+10396 u0_a131      16  -4 1.7G 127M  66M S  8.0   3.3   0:13.93 com.dongmibang.+
+26846 u0_a125      20   0 1.7G  67M  49M S  6.0   1.7  12:07.40 com.tencent.mob+
+  882 system       18  -2 4.4G 345M 298M S  6.0   9.1  25:18.60 system_server
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.69 android.hardwar+
+ 2446 u0_a122      20   0 1.7G  81M  56M S  3.0   2.1  15:14.28 com.tencent.and+
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:15.11 audioserver
+  501 system       -3   0  30M 5.1M 4.0M S  3.0   0.1   3:14.70 android.hardwar+
+ 8475 root         20   0    0    0    0 S  2.0   0.0   0:02.84 [kworker/0:2]
+26785 u0_a125      20   0 1.8G 128M  89M S  2.0   3.4   3:27.25 com.tencent.mob+
+ 2833 u0_a124      20   0 1.7G 100M  69M S  2.0   2.6   0:13.36 com.sohu.inputm+
+  533 root         RT   0    0    0    0 D  2.0   0.0   4:57.99 [mdss_fb0]
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:03.04 [kworker/u8:5]
+  689 root         RT   0    0    0    0 D  1.0   0.0   2:44.65 [kschedfreq:0]
+  670 system       20   0  12M 2.2M 1.9M S  1.0   0.0   0:54.46 android.hardwar+
+  292 root         RT   0    0    0    0 S  1.0   0.0   0:05.28 [irq/480-synapt+
+  244 root         -3   0    0    0    0 S  1.0   0.0   1:01.32 [kgsl_worker_th+
+   50 root         20   0    0    0    0 S  1.0   0.0   2:52.29 [smem_native_rp+[H[JTasks: 558 total,   1 running, 548 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3716060k used,   128296k free,   128016k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709520k cached         
+400%cpu  83%user  39%nice  88%sys 184%idle   1%iow   5%irq   0%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+  882 system       18  -2 4.4G 345M 298M S 47.0   9.1  25:18.66 system_server
+ 1860 u0_a10       20   0 4.3G 128M  84M S 36.0   3.4   3:48.75 com.google.andr+
+ 1249 u0_a27       20   0 4.2G 148M  82M S 21.0   3.9   2:40.90 com.android.sys+
+ 2016 u0_a17       20   0 4.2G 102M  66M S 18.0   2.7   0:21.88 com.google.andr+
+  499 system       -2  -8  68M  18M  14M S 15.0   0.4  14:43.20 surfaceflinger
+10642 shell        20   0  10M 2.8M 1.5M R  8.0   0.0   0:00.79 top -d 1
+ 2139 u0_a37       20   0 4.2G  92M  65M S  8.0   2.4   0:15.03 com.google.andr+
+  697 audioserver  20   0  52M 8.7M 6.2M S  5.0   0.2   0:15.14 audioserver
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.73 android.hardwar+
+26846 u0_a125      20   0 1.7G  65M  49M S  3.0   1.7  12:07.46 com.tencent.mob+
+ 2833 u0_a124      20   0 1.7G 100M  69M S  3.0   2.6   0:13.38 com.sohu.inputm+
+  533 root         RT   0    0    0    0 D  3.0   0.0   4:58.01 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  3.0   0.1   3:14.73 android.hardwar+
+10512 root         20   0    0    0    0 S  2.0   0.0   0:00.83 [kworker/u8:1]
+ 9689 root         20   0    0    0    0 S  2.0   0.0   0:03.05 [kworker/u8:5]
+  476 logd         30  10  19M 4.1M 1.4M S  2.0   0.1   2:22.97 logd
+  292 root         RT   0    0    0    0 S  2.0   0.0   0:05.29 [irq/480-synapt+
+  244 root         -3   0    0    0    0 S  2.0   0.0   1:01.33 [kgsl_worker_th+
+    7 root         -2   0    0    0    0 S  2.0   0.0   2:54.49 [rcu_preempt]
+ 8854 root         20   0    0    0    0 D  1.0   0.0   0:01.84 [kworker/1:4][H[JTasks: 558 total,   2 running, 551 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3742372k used,   101984k free,   128024k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709520k cached         
+400%cpu 130%user  13%nice  67%sys 181%idle   1%iow   7%irq   1%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+ 1335 u0_a126      20   0 2.3G 329M 159M S 37.0   8.7  20:07.05 com.tencent.mtt
+ 2016 u0_a17       10 -10 4.1G 103M  67M S 33.0   2.7   0:22.06 com.google.andr+
+  499 system       -2  -8  68M  18M  14M S 11.0   0.4  14:43.35 surfaceflinger
+ 2552 u0_a122      16  -4 2.0G 172M 122M S  9.0   4.5   0:59.80 com.tencent.and+
+ 1249 u0_a27       20   0 4.2G 149M  83M S  9.0   3.9   2:41.11 com.android.sys+
+  882 system       18  -2 4.4G 342M 298M S  9.0   9.1  25:19.13 system_server
+10642 shell        20   0  10M 2.8M 1.5M R  7.0   0.0   0:00.87 top -d 1
+  657 audioserver  20   0  25M 7.8M 3.9M S  4.0   0.2   0:16.77 android.hardwar+
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:15.19 audioserver
+ 1860 u0_a10       20   0 4.3G 119M  84M S  2.0   3.1   3:49.11 com.google.andr+
+ 1374 u0_a109      20   0 4.1G  59M  48M S  2.0   1.5  13:03.66 com.ustwo.lwp
+  636 root         20   0 1.4G  59M  52M S  2.0   1.5   0:03.11 zygote
+  533 root         RT   0    0    0    0 D  2.0   0.0   4:58.04 [mdss_fb0]
+  501 system       -3   0  30M 5.1M 4.0M S  2.0   0.1   3:14.76 android.hardwar+
+  244 root         -3   0    0    0    0 S  2.0   0.0   1:01.35 [kgsl_worker_th+
+10512 root         20   0    0    0    0 S  1.0   0.0   0:00.85 [kworker/u8:1]
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:03.07 [kworker/u8:5]
+ 9663 root         20   0    0    0    0 S  1.0   0.0   0:00.03 [kworker/0:0]
+28697 root         20   0    0    0    0 S  1.0   0.0   0:47.21 [kworker/u8:17]
+ 2833 u0_a124      20   0 1.7G 101M  69M S  1.0   2.6   0:13.41 com.sohu.inputm+[H[JTasks: 559 total,   2 running, 552 sleeping,   0 stopped,   0 zombie            
+Mem:   3844356k total,  3758884k used,    85472k free,   128032k buffers        
+Swap:   524284k total,    42644k used,   481640k free,  1709520k cached         
+400%cpu 254%user  14%nice  80%sys  43%idle   0%iow   7%irq   2%sirq   0%host    
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+10667 u0_a131      10 -10 1.5G  54M  22M R  229   1.4   0:00.56 com.dongmibang.+
+ 2016 u0_a17       20   0 4.2G 106M  67M S 20.0   2.8   0:22.39 com.google.andr+
+32362 u0_a126      16  -4 1.9G 147M  81M S 17.0   3.9   3:58.06 com.tencent.mtt+
+  882 system       18  -2 4.4G 342M 298M S 17.0   9.1  25:19.22 system_server
+  499 system       -2  -8  68M  18M  14M S 11.0   0.4  14:43.46 surfaceflinger
+10642 shell        20   0  10M 2.7M 1.5M R  8.0   0.0   0:00.94 top -d 1
+ 1860 u0_a10       20   0 4.3G 119M  84M S  4.0   3.1   3:49.13 com.google.andr+
+  501 system       -3   0  30M 5.1M 4.0M S  4.0   0.1   3:14.78 android.hardwar+
+32004 u0_a126      20   0 1.7G  68M  52M S  3.0   1.8   0:20.34 com.tencent.mtt+
+ 2833 u0_a124      20   0 1.7G 101M  69M S  3.0   2.6   0:13.42 com.sohu.inputm+
+  697 audioserver  20   0  52M 8.7M 6.2M S  3.0   0.2   0:15.22 audioserver
+  533 root         RT   0    0    0    0 D  3.0   0.0   4:58.06 [mdss_fb0]
+ 1463 radio        20   0 4.1G  84M  62M S  2.0   2.2   0:24.74 com.android.pho+
+ 1374 u0_a109      20   0 4.1G  59M  48M S  2.0   1.5  13:03.68 com.ustwo.lwp
+  671 system       20   0 2.0G 4.6M 3.0M S  2.0   0.1   4:30.39 android.hardwar+
+  657 audioserver  20   0  25M 7.8M 3.9M S  2.0   0.2   0:16.81 android.hardwar+
+  354 root         RT   0    0    0    0 S  2.0   0.0   2:15.36 [nanohub]
+10512 root         20   0    0    0    0 S  1.0   0.0   0:00.86 [kworker/u8:1]
+ 9689 root         20   0    0    0    0 S  1.0   0.0   0:03.08 [kworker/u8:5]
+ 1335 u0_a126      20   0 2.3G 329M 159M S  1.0   8.7  20:07.42 com.tencent.mtt[?25h[0m[1000;1H[K[?25h[0m[1000;1H[K
